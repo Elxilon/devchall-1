@@ -68,5 +68,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- - Website [your-website.com](https://{your-web-site-link}) -->
 
-- GitHub [@your-username](https://github.com/Elxilon)
-- Twitter [@your-twitter](https://twitter.com/Elxilon)
+- GitHub [@Elxilon](https://github.com/Elxilon)
+- Twitter [@Elxilon](https://twitter.com/Elxilon)
