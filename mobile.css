@@ -1,0 +1,38 @@
+/* Initialisation */
+
+h1 {
+  font-size: 4.8rem;
+  line-height: 71px;
+  letter-spacing: -0.035em;
+  margin-bottom: 2.9rem;
+}
+
+/* Header */
+
+header {
+  padding: 2rem 2.4rem;
+}
+
+/* Main */
+
+main {
+  flex-direction: column;
+  margin-left: 2.3rem;
+}
+
+.main-img img {
+  width: 100%;
+  padding: 4.4rem;
+}
+
+.main-text p {
+  font-size: 1.8rem;
+  line-height: 27px;
+  letter-spacing: -0.035em;
+  margin-bottom: 6.7rem;
+  width: auto;
+}
+
+button {
+  margin-bottom: 8rem;
+}
