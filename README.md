@@ -38,8 +38,8 @@
 
 ![screenshot](https://raw.githubusercontent.com/Elxilon/devchall-1/main/preview.PNG)
 
-  <a href="https://silly-bell-f7fbc5.netlify.app/">
-      - Where can I see your demo?
+- <a href="https://silly-bell-f7fbc5.netlify.app/">
+      Where can I see your demo?
   </a>
 
 - What was your experience?
